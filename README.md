@@ -9,4 +9,4 @@ Application with filtering by various criteria.
 ## Key skills:
 - Css
 - React
-- Redux (React-Redux, Redux Persist)
+- Redux Toolkit
